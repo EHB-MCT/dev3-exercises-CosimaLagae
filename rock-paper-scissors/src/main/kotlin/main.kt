@@ -22,6 +22,24 @@ fun main(args: Array<String>) {
     println("my choice: $randomElement")
 }
 
+
+//part2
 fun getUserChoice(options: Array<String>){
 
+}
+
+fun determineWinner(computerChoice: String, userChoice: String?){
+    if (computerChoice == userChoice){
+        println("it's a draw")
+        return
+    }
+
+    val winMessage = "you've won"
+    val loseMessage = "you've lost"
+
+    when (computerChoice) {
+        "rock" -> if (userChoice == "paper") println(winMessage) else println(loseMessage)
+        "paper" -> if (userChoice == "scissor") println(winMessage) else println(loseMessage)
+        "scissor" -> if (userChoice == "rock") println(winMessage) else println(loseMessage)
+    }
 }
