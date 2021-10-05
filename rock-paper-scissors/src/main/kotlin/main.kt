@@ -20,14 +20,19 @@ fun main(args: Array<String>) {
     var integer:Int = reader.nextInt()
 
     println("my choice: $randomElement")
+
+
+    println("your choice: ")
+    val userChoice
 }
 
 
-//part2
+fun getComputerChoice(){
+
+}
 fun getUserChoice(options: Array<String>){
 
 }
-
 fun determineWinner(computerChoice: String, userChoice: String?){
     if (computerChoice == userChoice){
         println("it's a draw")
