@@ -6,12 +6,13 @@ fun main() {
 fun challengeOne(){
     println("In the first challenge you need to solve my riddle.")
     println("my riddle is:")
-    println("What does the weatherman always say to a leprechaun?")
+    println("How many colors does the rainbow have?")
 
-    val correctAnswer = setOf<String>("How's the weather down there?")
+    val correctAnswer = setOf<String>("7")
 
     val userAnswer = readLine()
         if(correctAnswer.contains(userAnswer)) {
+            println("succeeded! Go to Challenge Two")
             challengeTwo()
         } else {
             gameOver()
