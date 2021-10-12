@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41bab203-4530-4bee-bed2-0f8bc0a3f875" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adventure-game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/hello_world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/annotations-13.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/annotations-13.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/hamcrest-core-1.3-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/hamcrest-core-1.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/junit-4.12-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/junit-4.12-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-stdlib-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-stdlib-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-stdlib-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-stdlib-common-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-stdlib-common-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-stdlib-common-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-test-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-test-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-test-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-test-junit-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-test-junit-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/libs/kotlin-test-junit-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/out/production/hello_world/META-INF/hello_world.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/out/production/hello_world/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/.idea/kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/annotations-13.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/annotations-13.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/hamcrest-core-1.3-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/hamcrest-core-1.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/junit-4.12-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/junit-4.12-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-stdlib-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-stdlib-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-stdlib-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-stdlib-common-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-stdlib-common-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-stdlib-common-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-test-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-test-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-test-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-test-junit-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-test-junit-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libs/kotlin-test-junit-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/annotations-13.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/annotations-13.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/hamcrest-core-1.3-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/hamcrest-core-1.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/junit-4.12-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/junit-4.12-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-stdlib-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-stdlib-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-stdlib-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-test-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-test-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-test-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-test-junit-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-test-junit-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/libs/kotlin-test-junit-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/out/production/rock-paper-scissors/META-INF/rock-paper-scissors.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/out/production/rock-paper-scissors/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/rock-paper-scissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rock-paper-scissors/src/main/kotlin/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/fun.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zPHUy4FXtVbmSy3hc3vjCDkFqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41bab203-4530-4bee-bed2-0f8bc0a3f875" name="Changes" comment="" />
+      <created>1634042824622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634042824622</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
