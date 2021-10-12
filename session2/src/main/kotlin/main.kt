@@ -8,9 +8,20 @@ fun challengeOne(){
     println("my riddle is:")
     println("What does the weatherman always say to a leprechaun?")
 
-    var correctAnswer  setOf
+    val correctAnswer = setOf<String>("How's the weather down there?")
+
+    val userAnswer = readLine()
+        if(correctAnswer.contains(userAnswer)) {
+            challengeTwo()
+        } else {
+            gameOver()
+        }
 }
 
 fun challengeTwo(){
 
+}
+
+fun gameOver(){
+ println("Game Over")
 }
