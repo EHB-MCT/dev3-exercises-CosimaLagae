@@ -31,7 +31,7 @@ fun challengeTwo(){
     if (userAnswer == "low") {
         val diceNum = if (diceNumber > 3) high else low
     } else {
-        
+
     }
 
     val low = arrayOf(1,2,3)
