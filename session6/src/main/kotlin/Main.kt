@@ -8,6 +8,9 @@ fun main(){
 
     // Prepare credentials
     val connectionProps = Properties()
+    connectionProps["user"] = credentials.databaseName
+    connectionProps["password"] = credentials.databaseName
+
 
 // Create the connection: this will allow us to run queries on it later
     val connection =  DriverManager.getConnection(
